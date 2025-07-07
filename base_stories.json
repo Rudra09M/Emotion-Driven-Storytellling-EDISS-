@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "title": "The Lonely Robot",
+        "summary": "A robot on Mars discovers an ancient message from Earth, changing its mission forever.",
+        "genre": "Sci-Fi",
+        "image": "robot.jpg",
+        "full_context": "Once upon a time on a dusty Martian plateau, a robot named N-9X roamed alone, collecting soil samples for a mission long abandoned by humanity. One day, buried under red dust, it uncovered a metal capsule. Inside was a glowing disc engraved with human names and a message: 'To whoever finds this, you are not alone.'"
+    },
+    {
+        "id": "2",
+        "title": "Whispers in the Forest",
+        "summary": "A child follows haunting whispers in the woods and finds a hidden village no one remembers.",
+        "genre": "Fantasy",
+        "image": "forest.jpg",
+        "full_context": "It was just past twilight when Mira first heard the whispers \u2014 soft, melodic voices calling her name from deep within the ancient woods. Everyone in her village warned her never to enter after dusk, but that night, something pulled her in. She crossed the threshold, where shadows danced like spirits, and found an overgrown path leading to ruins covered in glowing moss. The voices grew louder..."
+    },
+    {
+        "id": "3",
+        "title": "The Clockmaker's Secret",
+        "summary": "A young apprentice discovers his master's clocks can control time itself.",
+        "genre": "Mystery",
+        "image": "clockmaker.jpg",
+        "full_context": "Elias always thought his master's obsession with precision was eccentric. Every tick of the clocks in Master Harnam's shop had to align perfectly, down to the millisecond. But one night, while dusting a shelf, Elias accidentally set one clock backward \u2014 and suddenly, the shop was alive with backward movement. Time, it seemed, could be rewound\u2026 but only in small bursts."
+    },
+    {
+        "id": "4",
+        "title": "The Last Train",
+        "summary": "A stranded commuter boards a train that wasn\u2019t supposed to exist.",
+        "genre": "Thriller",
+        "image": "train.jpg",
+        "full_context": "The last train had already left. At least, that\u2019s what the stationmaster told Sarah. But at 1:17 AM, an old steam engine rolled into Platform 9, screeching to a halt. Its conductor, dressed in a Victorian uniform, tipped his hat and gestured her aboard. She hesitated, but the doors creaked open. Something about it felt... inevitable."
+    },
+    {
+        "id": "5",
+        "title": "Dreamscape",
+        "summary": "A lucid dreamer finds a door that connects all of humanity\u2019s dreams together.",
+        "genre": "Psychological",
+        "image": "dream.jpg",
+        "full_context": "In his sleep, Arjun always knew when he was dreaming. He could fly, swim through stars, or walk across memories. But one night, he found a door he\u2019d never imagined \u2014 tall, black, with an eye carved in the center. Behind it was a place where other dreamers wandered, their subconscious minds blending into a chaotic dreamscape. What happens when you\u2019re not the only one in control?"
+    }
+]
