@@ -5,7 +5,7 @@ keras
 scikit-learn
 
 # Computer Vision
-opencv-python
+opencv-python-headless
 mediapipe
 fer
 
