@@ -1,13 +1,12 @@
 # requirements.txt
+
 # Core ML & Deep Learning
 tensorflow
-keras
 scikit-learn
 
 # Computer Vision
 opencv-python-headless
 mediapipe
-fer
 
 # Data Handling
 numpy
